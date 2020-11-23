@@ -3,11 +3,11 @@
 # Sophie Pelton
 
 echo "Enter a positive number: "
-read NUMBER
+read -r NUMBER
 
 N=1
 
-while [ $N -le $NUMBER ]
+while [ $N -le "$NUMBER" ]
 do
 	if [ $((N%2)) -eq 0 ]
 	then 
