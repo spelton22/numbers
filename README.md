@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Sophie 
+2. Student ID: 2370862
+3. Email: spelton@siprep.org
+4. Class: CENG298-01
 5. Assignment: numbers 
 
 ## Application Purpose
